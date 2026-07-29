@@ -3,7 +3,7 @@
 A responsive employee management dashboard built with React.js and React Router. Authentication runs against the [DummyJSON](https://dummyjson.com) auth API; the employee roster itself is a local Indian employee dataset (`src/data/employees.js`) rather than an external API.
 
 **Live demo:** _add your Vercel/Netlify URL here_
-**Repo:** https://github.com/visheshchavhan18/my-project.git
+**Repo:** https://employeemanager7.netlify.app/
 
 ## Features
 
